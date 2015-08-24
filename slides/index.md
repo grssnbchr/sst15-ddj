@@ -1,10 +1,10 @@
 
-# Datenjournalismus bei SRF
+# Datenjournalismus<br/> beim Schweizer Radio und Fernsehen
 
-From the terminal, pop in:
+Timo Grossenbacher
 
-  ```yo reveal:slide "Slide Title"```
+![Logo](resources/srf_data_logo.jpg "Logo")
 
-Available options:
+[@grssnbchr](http://twitter.com/grssnbchr)
 
- ```--markdown --attributes --notes```
+[@srfdata](http://twitter.com/srfdata)
