@@ -1,9 +1,35 @@
 [
     "index.md",
     {
+        "filename": "se.md",
+        "attr": {
+            "data-background": "resources/se.jpg"
+        }
+    },
+    {
         "filename": "unser-team.md",
         "attr": {
             "data-background": "resources/team.jpg"
         }
-    }
+    },
+    {
+        "filename": "was-ist-datenjournalismus.html"
+    },
+    {
+        "filename": "pp_dollarsdocs.html"
+    },
+    {
+        "filename": "wathe-migrants-files.html"
+    },
+    {
+        "filename": "beispiel_zeit.html"
+    },
+    {
+        "filename": "wadatenjournalismus-ist.html"
+    },
+    "ddj-in-der-ch.md",
+    "wie-wir-arbeiten.md",
+    "wie-wir-arbeiten-2.md",
+    "statistik.html",
+    "wie-wir-arbeiten-3.html"
 ]
