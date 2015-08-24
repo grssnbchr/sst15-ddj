@@ -1,7 +1,7 @@
 ##  Datenjournalismus in der Schweiz
 
 * [NZZ Data](http://nzz.ch/data)
-* [Tages-Anzeiger Datenblog](http://blog.tagesanzeiger.ch/datenblog/)
+* [Datenblog (Tages-Anzeiger/Newsnet)](http://blog.tagesanzeiger.ch/datenblog/)
 * [Le Temps Data](http://letemps.ch/data)
 * ...
 * [SRF Data](http://srf.ch/data)
